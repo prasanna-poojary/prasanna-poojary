@@ -43,17 +43,16 @@ Cloud And Cyber Security Enthusiast
 </p>
 
 ---
-
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prasanna-poojary&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=prasanna-poojary&show_icons=true&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prasanna-poojary&theme=tokyonight&hide_border=true" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prasanna-poojary&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanna-poojary&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanna-poojary&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
