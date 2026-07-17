@@ -8,7 +8,7 @@ Cloud And Cyber Security Enthusiast
 
 ## 🚀 About Me
 
-- 🎓 BCA Graduate from Mangalore University
+- 🎓 Graduate from Mangalore University
 - 💻 Passionate about Cloud Computing and Cyber Security
 - 🌱 I enjoy building real-world projects and learning modern technologies
 - ⚡ I believe in learning by building
