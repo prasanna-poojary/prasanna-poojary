@@ -49,13 +49,9 @@ Cloud And Cyber Security Enthusiast
 ## 📫 Connect With Me
 
 LinkedIn:
-https://linkedin.com/in/YOUR_USERNAME
+https://linkedin.com/in/prasanna-poojary
 
-Portfolio:
-https://YOUR_PORTFOLIO
 
-Email:
-YOUR_EMAIL
 
 ---
 
