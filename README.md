@@ -33,7 +33,7 @@ Cloud And Cyber Security Enthusiast
 ### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### Database
