@@ -1,16 +1,81 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Prasanna Poojary</h1>
 
-<!--
-**prasanna-poojary/prasanna-poojary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Cloud And Cyber Security Enthusiast
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 BCA Graduate from Mangalore University
+- 💻 Passionate about Cloud Computing and Cyber Security
+- 🌱 I enjoy building real-world projects and learning modern technologies
+- ⚡ I believe in learning by building
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js" />
+</p>
+
+
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,linux" />
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+
+## 📫 Connect With Me
+
+LinkedIn:
+https://linkedin.com/in/YOUR_USERNAME
+
+Portfolio:
+https://YOUR_PORTFOLIO
+
+Email:
+YOUR_EMAIL
+
+---
+
+## 💡 Quote
+
+> "Code. Build. Learn. Repeat."
+
+---
+
+⭐ Thanks for visiting my profile!
